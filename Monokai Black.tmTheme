@@ -20,9 +20,9 @@
 		<string>#a6e22e</string>
 	</dict>
 	<key>name</key>
-	<string>Monokai Extended</string>
+	<string>Monokai Black</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai_extended</string>
+	<string>theme.dark.monokai_black</string>
 	<key>settings</key>
 	<array>
 		<dict>

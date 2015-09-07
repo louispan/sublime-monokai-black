@@ -8,8 +8,8 @@
         "selectionBackground": "#586e75", 
         "selectionForeground": "#a6e22e"
     }, 
-    "name": "Monokai Extended", 
-    "semanticClass": "theme.dark.monokai_extended", 
+    "name": "Monokai Black", 
+    "semanticClass": "theme.dark.monokai_black", 
     "settings": [
         {
             "settings": {

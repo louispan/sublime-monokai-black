@@ -1,8 +1,8 @@
 {
     "author": "@tapionlinna", 
     "colorSpaceName": "sRGB", 
-    "name": "Monokai Extended Bright", 
-    "semanticClass": "theme.dark.monokai_bright_extended", 
+    "name": "Monokai Black Bright", 
+    "semanticClass": "theme.dark.monokai_black_bright", 
     "settings": [
         {
             "settings": {
