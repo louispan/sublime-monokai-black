@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#000000</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -18,7 +18,7 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#3E3D32</string>
+				<string>#272822</string>
 				<key>selection</key>
 				<string>#9D550F</string>
 				<key>selectionForeground</key>
@@ -31,10 +31,6 @@
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
-				<!--X-->
-				<key>selectionBorder</key>
-				<string>#1C1C1C</string>
-				<!--/X-->
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 
@@ -966,7 +962,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai_black_bright</string>
+	<string>theme.dark.monokai_bright_extended</string>
 	<key>author</key>
 	<string>@tapionlinna</string>
 </dict>

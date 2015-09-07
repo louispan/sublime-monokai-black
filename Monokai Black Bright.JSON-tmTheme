@@ -7,7 +7,7 @@
         {
             "settings": {
                 "activeGuide": "#9D550FB0", 
-                "background": "#272822", 
+                "background": "#000000", 
                 "bracketContentsForeground": "#F8F8F2A5", 
                 "bracketContentsOptions": "underline", 
                 "bracketsForeground": "#F8F8F2A5", 
@@ -19,9 +19,8 @@
                 "inactiveSelection": "#bbbbbb", 
                 "inactiveSelectionForeground": "#222222", 
                 "invisibles": "#3B3A32", 
-                "lineHighlight": "#3E3D32", 
+                "lineHighlight": "#272822", 
                 "selection": "#9D550F", 
-                "selectionBorder": "#1C1C1C", 
                 "selectionForeground": "#fffff8", 
                 "tagsOptions": "stippled_underline"
             }

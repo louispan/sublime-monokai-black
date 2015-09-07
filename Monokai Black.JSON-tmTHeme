@@ -1,20 +1,13 @@
 {
     "author": "github.com/jonschlinkert", 
     "colorSpaceName": "sRGB", 
-    "gutterSettings": {
-        "background": "#073642", 
-        "divider": "#586e75", 
-        "foreground": "#839496", 
-        "selectionBackground": "#586e75", 
-        "selectionForeground": "#a6e22e"
-    }, 
     "name": "Monokai Black", 
     "semanticClass": "theme.dark.monokai_black", 
     "settings": [
         {
             "settings": {
                 "activeGuide": "#9d550fb0", 
-                "background": "#222222", 
+                "background": "#000000", 
                 "bracketContentsForeground": "#f8f8f2a5", 
                 "bracketContentsOptions": "underline", 
                 "bracketsForeground": "#f8f8f2a5", 
@@ -24,9 +17,10 @@
                 "findHighlightForeground": "#000000", 
                 "foreground": "#f8f8f2", 
                 "invisibles": "#3b3a32", 
-                "lineHighlight": "#333333", 
-                "selection": "#444444", 
-                "selectionBorder": "#1c1c1c", 
+                "lineHighlight": "#272822", 
+                "selection": "#005f87", 
+                "selectionBorder": "#00afd7", 
+                "inactiveSelection": "005f5f",
                 "tagsOptions": "stippled_underline"
             }
         }, 
@@ -34,7 +28,7 @@
             "name": "Comment", 
             "scope": "comment", 
             "settings": {
-                "foreground": "#75715e"
+                "foreground": "#75715E"
             }
         }, 
         {

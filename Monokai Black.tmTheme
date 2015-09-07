@@ -6,19 +6,6 @@
 	<string>github.com&#x2f;jonschlinkert</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
-	<key>gutterSettings</key>
-	<dict>
-		<key>background</key>
-		<string>#073642</string>
-		<key>divider</key>
-		<string>#586e75</string>
-		<key>foreground</key>
-		<string>#839496</string>
-		<key>selectionBackground</key>
-		<string>#586e75</string>
-		<key>selectionForeground</key>
-		<string>#a6e22e</string>
-	</dict>
 	<key>name</key>
 	<string>Monokai Black</string>
 	<key>semanticClass</key>
@@ -31,7 +18,7 @@
 				<key>activeGuide</key>
 				<string>#7fb11b</string>
 				<key>background</key>
-				<string>#222222</string>
+				<string>#000000</string>
 				<key>bracketContentsForeground</key>
 				<string>#f8f8f2a5</string>
 				<key>bracketContentsOptions</key>
@@ -51,11 +38,13 @@
 				<key>invisibles</key>
 				<string>#3b3a32</string>
 				<key>lineHighlight</key>
-				<string>#333333</string>
+				<string>#272822</string>
 				<key>selection</key>
-				<string>#444444</string>
+				<string>#005f87</string>
 				<key>selectionBorder</key>
-				<string>#1c1c1c</string>
+				<string>#00afd7</string>
+				<key>inactiveSelection</key>
+				<string>#005f5f</string>
 				<key>stackGuide</key>
 				<string>#635f2d</string>
 				<key>tagsOptions</key>
@@ -70,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715e</string>
+				<string>#75715E</string>
 			</dict>
 		</dict>
 		<dict>
